@@ -3,7 +3,7 @@ Este es un ejemplo de Github para la comunidad de #mejorandola
 Una vez instalas GIT, debes configurarlo:
 
 git config --global user.name "Usuario" 
-git config --global user.email "xxxxxx@xxxx.com"
+git config --global user.email "xxxxxx@xxxx.xxx"
 
 Generando tu Public Key:
 
